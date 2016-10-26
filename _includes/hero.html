@@ -9,7 +9,7 @@
         {% if link.href %}
           <a href="{{ link.href }}">{{ link.text }}</a>
         {% elsif link.my_mlh %}
-          <a class="apply" href="{ link.my_mlh.url }}&amp;redirect_uri={{ link.my_mlh.redirect_uri }}&amp;response_type=token">{{ link.text }}</a>
+          <a class="apply" href="{{ link.my_mlh.url }}&amp;redirect_uri={{ link.my_mlh.redirect_uri }}&amp;response_type=token">{{ link.text }}</a>
         {% endif %}
       {% endfor %}
     </div>
