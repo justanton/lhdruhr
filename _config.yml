@@ -44,7 +44,7 @@ event:
     links:
       - text: "Apply"
         my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
+          url: "https://localhackday.mlh.io/register/?id=essen&city_name=Duisburg%2C%20Germany"
           redirect_uri: "https://justanton.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
         href: "mailto:lhdruhr@gmail.com"
@@ -60,6 +60,7 @@ event:
         title: "LEARN."
         description: >
           Meet new like-minded people, collaborate, and learn from each other.
+          TEST. 
       - image: "images/image2.png"
         title: "BUILD."
         description: >
