@@ -59,11 +59,11 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          Meet new like-minded people, collaborate and learn from each other.
+          Meet new like-minded people, collaborate, and learn from each other.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          Create you care about in under 12 hours.
+          Create something you are passionate about in under 12 hours.
       - image: "images/image3.png"
         title: "SHARE."
         description: >
@@ -71,20 +71,20 @@ event:
 
   # Frequently asked questions.
   faq:
-    - question: "What is a hackathon?"
+    - question: "What is a Local Hack Day Ruhr?"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        Local Hack Day Ruhr is an invention marathon. Students come together to build cool
+        software & hardware hacks in about 12 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
     - question: "How much does it cost?"
       answer: >
-        Nothing. Attending a hackathon is free.
+        **Nothing.** Attending a Local Hack Day is free.
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
+        Yes. Only students who are currently enrolled at a University/Fachhochschule or
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at the *Franz-Haniel-Platz, 47119 Duisburg (Social Impact Lab).*
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
