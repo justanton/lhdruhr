@@ -44,7 +44,7 @@ event:
     links:
       - text: "Apply"
         my_mlh:
-          url: "https://localhackday.mlh.io/register/?id=essen&city_name=Duisburg%2C%20Germany"
+          url:    "https://localhackday.mlh.io/register/?id=rotkreuz&city_name=Rotkreuz%2C%20Switzerland"
           redirect_uri: "https://justanton.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
         href: "mailto:lhdruhr@gmail.com"
