@@ -20,7 +20,7 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: ""
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
@@ -45,9 +45,9 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://justanton.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:lhdruhr@gmail.com"
 
   about:
     description: >
@@ -59,15 +59,15 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          Need to change this later.
+          Meet new like-minded people, collaborate and learn from each other.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          Need to change this later.
+          Create you care about in under 12 hours.
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          Need to change this later.
+          Share your knowledge with others and build a better, stronger community.
 
   # Frequently asked questions.
   faq:
