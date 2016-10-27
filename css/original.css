@@ -44,11 +44,12 @@ section {
   z-index: 10000;
 }
 
-/* 
+/*
  * Hero Section
  */
 
 .hero {
+  background: url('../images/header.jpg');
   background-color: #F5699C;
   min-height: 110vh;
 }
@@ -118,7 +119,7 @@ section {
   margin-right: 10px;
 }
 
-/* 
+/*
  * About Section
  */
 
