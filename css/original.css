@@ -52,7 +52,7 @@ section {
   background: url('../images/hero.jpg');
   background-size: cover;
   background-color: #F5699C;
-  min-height: 110vh;
+  min-height: 100vh;
 }
 
 .hero img {
