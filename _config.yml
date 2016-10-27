@@ -85,7 +85,7 @@ event:
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at the *Franz-Haniel-Platz, 47119 Duisburg (Social Impact Lab).*
+        The event is being hosted at the [Franz-Haniel-Platz, 47119 Duisburg (Social Impact Lab).](https://www.google.de/maps/place/Social+Impact+Lab+Duisburg/@51.451535,6.7330771,15z/data=!4m5!3m4!1s0x0:0xc406eb74bbad6e1f!8m2!3d51.451535!4d6.7330771)
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
