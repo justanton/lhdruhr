@@ -235,7 +235,7 @@ section {
 .timeline {
   background-color: #fff;
   margin-top: 15px;
-  padding: 100px 0;
+  padding: 50px 0;
   position: relative;
 }
 
@@ -256,6 +256,62 @@ section {
   font-size: 18px;
   line-height: 1.5em;
 }
+
+/*
+ * sponsors
+ */
+
+ .row-centered {
+     text-align:center;
+ }
+ .col-centered {
+     display:inline-block;
+     float:none;
+     /* reset the text-align */
+     text-align:left;
+     /* inline-block space fix */
+     margin-right:-4px;
+ }
+
+ /*
+* Info Section
+*/
+
+.sponsor {
+ background-color: #fff;
+ margin-top: 15px;
+ padding: 20px 0;
+ position: relative;
+
+}
+
+.sponsor .item{
+ padding: 20px;
+}
+
+.sponsor h1 {
+ font-family: 'Montserrat';
+ font-weight: 700;
+ margin: 120px 0 40px 0;
+}
+
+.sponsor .item img {
+ max-width: 100%;
+ width: 100%;
+ float: none;
+ margin: 0 auto;
+}
+
+.sponsor .item p {
+ margin-top: 10px;
+ font-size: 20px;
+}
+
+.sponsorItem{
+
+   margin: 0 auto;
+}
+
 
 /*
  * Footer Section

@@ -63,3 +63,38 @@ layout: default
     </div>
   </div>
 </section>
+
+<section class="sponsor">
+  <div class="container text-center">
+    <!-- <h1 class="text-center">Sponsors</h1> -->
+    <div class="row row-centered">
+            {% for section in site.event.sponsor.sections %}
+        <div class="col-xs-6 col-sm-6 col-md-4 col-centered">
+          <div class="item">
+            <a href="{{ section.url }}" target="_blank">
+            <img src="{{ section.image }}" />
+          </a>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+    <p>
+      {{site.event.sponsor.sponsorus | markdownify}}
+    </p>
+    <h1 class="text-center">Supported by:</h1>
+    <div class="row row-centered">
+        {% for sectionSupport in site.event.sponsor.sectionSupport %}
+          <div class="col-xs-6 col-sm-6 col-md-4 text-center col-centered">
+            <div class="item">
+              <a href="{{ sectionSupport.url }}" target="_blank">
+              <img src="{{ sectionSupport.image }}" />
+            </a>
+            <p>{{ sectionSupport.description }}</p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+  </div>
+
+</section>
