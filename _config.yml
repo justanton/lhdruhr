@@ -102,7 +102,29 @@ event:
     - question: "Any other questions?"
       answer: >
         Feel free to write us to [lhdruhr@gmail.com](mailto:lhdruhr@gmail.com)
-
+        
+  timeline:
+    days:
+      - day: "Saturday, Dec 3th"
+        events:
+          - title: "Registration"
+            time: "8:30 - 9:00"
+            place: ""
+          - title: "Start Hacking"
+            time: "9:00"
+            place: ""
+          - title: "Lunch"
+            time: "12:00 - 13:00"
+            place: ""
+          - title: "Dinner"
+            time: "18:00 - 19:00"
+            place: ""
+          - title: "Project Pitches, optional"
+            time: "20:00 - 21:00"
+            place: ""
+          - title: "End"
+            time: "21:00"
+            place: ""
 
   # This is the message you'll receive once you've registered.
   register:
