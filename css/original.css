@@ -51,12 +51,13 @@ section {
 .hero {
   background: url('../images/hero.jpg') no-repeat center center;
   background-size: cover;
-  background-color: #F5699C;
   min-height: 100vh;
 }
 
 .hero img {
+  background: rgba(255, 255, 255, .8);
   max-width: 400px;
+  border-radius: 15px;
 }
 
 .hero hr {
@@ -67,7 +68,7 @@ section {
 }
 
 .hero .wrapper {
-  padding-top: 30vh;
+  padding-top: 15vh;
 }
 
 .hero .wrapper h1 {
@@ -88,7 +89,7 @@ section {
 .hero .wrapper h3 {
   font-size: 20px;
   font-weight: 200;
-  padding-bottom: 35px;
+  padding-bottom: 15px;
 }
 
 .hero .buttons {
@@ -118,6 +119,19 @@ section {
 
 .hero .buttons a:not(:last-child) {
   margin-right: 10px;
+}
+
+#locat {
+  font-weight: 400;
+  color: black;
+}
+
+#locat span{
+  background: rgba(255, 255, 255, .8);
+  /*border: 5 px solid #0F2C34;*/
+  border-radius: 40px;
+  padding: 10px 70px;
+  display: inline-block;
 }
 
 /*

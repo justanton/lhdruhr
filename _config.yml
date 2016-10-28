@@ -60,11 +60,11 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          Meet new like-minded people, collaborate, and learn from each other.
+          Meet new like-minded people, learn from each other and work in teams.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          Create something you are passionate about in under 12 hours.
+          Create something you care about in under 12 hours.
       - image: "images/image3.png"
         title: "SHARE."
         description: >
@@ -74,15 +74,21 @@ event:
   faq:
     - question: "What is a Local Hack Day Ruhr?"
       answer: >
-        Local Hack Day Ruhr is an invention marathon. Students come together to build cool
-        software & hardware hacks in about 12 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        Local Hack Day Ruhr is an event with the goal to bring together tech-enthusiasts from the Ruhr area
+        and make that community more connected.
+        Hack Day is very close in spirit to Hackathons, and it is designed to make it easier for newcomers to
+        get acquainted with the format of a [Hackathon](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+
+
+        The program includes cool workshops and talks, to boost your tech skills, and the main part is work in teams on projects of your interest.
     - question: "How much does it cost?"
       answer: >
         **Nothing.** Attending a Local Hack Day is free.
+        We will have some food and also **free** surprise gifts ;D.
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a University/Fachhochschule or
-        have graduated within the past 12 months are eligible to attend.
+        Yes. Only students who are currently enrolled at a University/Fachhochschule are eligible to attend.
+        Please, bring your valid student ID with you to the event.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at the [Franz-Haniel-Platz, 47119 Duisburg (Social Impact Lab).](https://www.google.de/maps/place/Social+Impact+Lab+Duisburg/@51.451535,6.7330771,15z/data=!4m5!3m4!1s0x0:0xc406eb74bbad6e1f!8m2!3d51.451535!4d6.7330771)
@@ -93,6 +99,10 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - question: "Any other questions?"
+      answer: >
+        Feel free to write us to [lhdruhr@gmail.com](mailto:lhdruhr@gmail.com)
+
 
   # This is the message you'll receive once you've registered.
   register:
