@@ -26,7 +26,7 @@ social:
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
   title:       "Local Hack Day Ruhr | 3 Dezember 2016"
-  description: ""
+  description: "Local Hack Day Ruhr brings together the students on December 3rd 2016 for 12 hours of learning, building and sharing."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
@@ -52,7 +52,7 @@ event:
 
   about:
     description: >
-      Need to change this later.
+      On December 3rd, meet new people from your local community of tech-enthusiasts, learn new skills and celebrate technology during 12 unforgettable hours with free food and swag.
 
   # Info Sections
   info:
@@ -74,7 +74,7 @@ event:
   faq:
     - question: "What is a Local Hack Day Ruhr?"
       answer: >
-        Local Hack Day Ruhr is an event with the goal to bring together tech-enthusiasts from the Ruhr area
+        Local Hack Day Ruhr is a 12-hours event with the goal to bring together tech-enthusiasts from the Ruhr area
         and make that community more connected.
         Hack Day is very close in spirit to Hackathons, and it is designed to make it easier for newcomers to
         get acquainted with the format of a [Hackathon](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
