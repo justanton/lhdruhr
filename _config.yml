@@ -27,7 +27,7 @@ social:
 seo:
   title:       "Local Hack Day Ruhr | 3 Dezember 2016"
   description: "Local Hack Day Ruhr brings together the students on December 3rd 2016 for 12 hours of learning, building and sharing."
-  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
+  image:       "images/seo-img.png"
 
 # Event information.
 event:
@@ -110,8 +110,8 @@ event:
           - title: "Registration"
             time: "8:30 - 9:00"
             place: ""
-          - title: "Welome Keynote"
-            time: "9:00"
+          - title: "Openning Keynote"
+            time: "9:15"
             place: ""
           - title: "Workshops/Talks"
             time: "9:45 - 12:00"
