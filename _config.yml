@@ -109,9 +109,9 @@ event:
       - day: "Saturday, Dec 3th"
         events:
           - title: "Registration"
-            time: "8:30 - 9:00"
+            time: "8:45 - 9:00"
             place: ""
-          - title: "Openning Keynote"
+          - title: "Opening Keynote"
             time: "9:15"
             place: ""
           - title: "Workshops/Talks"
