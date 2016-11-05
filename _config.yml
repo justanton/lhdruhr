@@ -37,10 +37,10 @@ event:
   date:        "3 Dezember 2016"
   location:    "Duisburg, Germany"
 
-  trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
-    color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
+  # trust_badge:
+  #   year:   "2017"  # season year
+  #   region: "eu"    # "na" or "eu"
+  #   color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
