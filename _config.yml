@@ -44,7 +44,7 @@ event:
 
   hero:
     links:
-      - text: "Apply"
+      - text: "Register"
         my_mlh:
           url: "https://localhackday.mlh.io/register/?id=essen&city_name=Duisburg%2C%20Germany"
           redirect_uri: "http://lhdruhr.de/success.html"
