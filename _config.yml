@@ -26,7 +26,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Local Hack Day Ruhr | 3 Dezember 2016"
+  title:       "Local Hack Day Ruhr | 3 December 2016"
   description: "Local Hack Day Ruhr brings together students on December 3rd 2016 for 12 hours of learning, building and sharing."
   image:       "images/seo-img.png"
 
@@ -34,7 +34,7 @@ seo:
 event:
   name:        "Local Hack Day Ruhr"
   description: ""
-  date:        "3 Dezember 2016"
+  date:        "3 December 2016"
   location:    "Duisburg, Germany"
 
   # trust_badge:
