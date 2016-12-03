@@ -53,7 +53,7 @@ event:
 
   about:
     description: >
-      On December 3rd, meet new people from your local community of tech-enthusiasts, learn new skills and celebrate technology during 12 unforgettable hours with free food and swag. Please, show cookies!!
+      On December 3rd, meet new people from your local community of tech-enthusiasts, learn new skills and celebrate technology during 12 unforgettable hours with free food and swag.
 
   # Info Sections
   info:
@@ -61,7 +61,7 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          Meet new like-minded people, learn new skills in workshops and from others. And also, EAT COOKIES AND DRINK CLUB MATE! ᕕ( ᐛ )ᕗ
+          Meet new like-minded people, learn new skills in workshops and from others.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
