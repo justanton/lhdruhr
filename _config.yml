@@ -8,9 +8,9 @@ baseurl: ""
 
 # If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
 # If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
-#url: "https://justanton.github.io"
+url: "https://justanton.github.io"
 # url: "http://127.0.0.1:4000/"
-url: "http://lhdruhr.de/"
+# url: "http://lhdruhr.de/"
 
 # The ability to use custom themes.
 style:
